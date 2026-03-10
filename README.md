@@ -1,4 +1,4 @@
-MetaAgent: Stateful and Human-in-the-loop (HITL) Agent
+MetaAgent: Stateful and Human-in-the-Loop (HITL) Agent
 
 MetaAgent is an advanced conversational AI framework built with LangChain and Azure OpenAI, capable of creating and managing multiple agents, maintaining conversation history, and integrating with popular project management tools like Asana, Jira, and ClickUp. It also supports real-time state tracking, human-in-the-loop approval, and notifications via console or email.
 
